@@ -1,0 +1,128 @@
+# <email> emaili ve <password> sifresi ile giris yap
+*"btnGirisYap" elementine tıkla
+*"tbEmailOfLogin" elementine <email> değerini yaz
+*"tbPasswordOfLogin" elementine <password> değerini yaz
+*"btnRememberMeOfLogin" elementi var mı
+*"btnOturumAcOfLogin" elementine tıkla
+*"btnHesabım" elementi var mı
+
+#Anasayfaya tıkla
+*"btnAnaSayfa" elementine tıkla
+
+#Sepetime tıkla
+*"btnSepetim" elementine tıkla
+
+#Sepeti boşalt
+*"btnSepetimSil" elementine tıkla
+*"SepetimBos" elementi var mı
+
+# <urun> ürününü bul
+*"tbSearch" elementine <urun> değerini yaz
+*"btnSearch" elementine tıkla
+*"btnUrununeGel" elementinin üzerine gel
+*"btnUrununuSec" elementine tıkla
+
+#Ürünü sepete ekle
+*"btnSepeteEkle" elementine tıkla
+
+#Satın alma butonuna tıkla
+*"btnSatinAl" elementine tıkla
+
+#Ön Bilgilendirme Sözleşmesini kabul et
+*"btnSozlesmeKabul" elementine tıkla
+
+#Kart bilgilerini doldur
+*"KartNoBir" elementine "1111" değerini yaz
+*"KartNoIki" elementine "1111" değerini yaz
+*"KartNoUc" elementine "1111" değerini yaz
+*"KartNoDort" elementine "1111" değerini yaz
+*"KartKullanıcıAd" elementine "Damla Seker" değerini yaz
+*"GüvenlikKodu" elementine "111" değerini yaz
+*"btnAnaSayfa" elementine tıkla
+
+#Çıkış Yap
+*"btnHesabım" elementine tıkla
+
+#Kategori sekmesini kontrol et
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"giyimKategorisi" elementine tıkla
+*"txtGiyimKategori" elementinin "textContent" niteliği "Giyim & Ayakkabı" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"elektronikKategorisi" elementine tıkla
+*"txtElektronikKategori" elementinin "textContent" niteliği "Elektronik" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"anneKategorisi" elementine tıkla
+*"txtAnneKategori" elementinin "textContent" niteliği "Anne & Bebek" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"kozmetikKategorisi" elementine tıkla
+*"txtKozmetikKategori" elementinin "textContent" niteliği "Kozmetik & Kişisel Bakım" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"mucevheratKategorisi" elementine tıkla
+*"txtMucevheratKategori" elementinin "textContent" niteliği "Mücevher & Saat" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"sporKategorisi" elementine tıkla
+*"txtSportKategori" elementinin "textContent" niteliği "Spor & Outdoor" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"kitapKategorisi" elementine tıkla
+*"txtKitapKategori" elementinin "textContent" niteliği "Kitap, Müzik, Film, Oyun" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"biletKategorisi" elementine tıkla
+*"txtBiletKategori" elementinin "textContent" niteliği "Bilet, Tatil & Eğlence" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+*"btnTümKategoriler" elementine tıkla
+*"btnTümKategoriler" elementinin üzerine gel
+*"otomotivKategorisi" elementine tıkla
+*"txtOtomotivKategori" elementinin "textContent" niteliği "Otomotiv & Motosiklet" değerine eşit mi
+*"btnAnaSayfa" elementine tıkla
+
+#Çok Satanlar sekmesini kontrol et
+*"btnSuperFirsat" elementine tıkla
+*"btnAnaSayfa" elementine tıkla
+*"csTümKategorisi" elementinin üzerine gel
+*"csTümKategorisi" elementinin "pathname" niteliği "/cok-satanlar" değerine eşit mi
+*"csTümKategorisi" elementinin "title" niteliği "Tüm Kategoriler" değerine eşit mi
+*"csGiyimKategorisi" elementinin üzerine gel
+*"csGiyimKategorisi" elementinin "pathname" niteliği "/cok-satanlar/giyim-ayakkabi" değerine eşit mi
+*"csGiyimKategorisi" elementinin "title" niteliği "Giyim & Ayakkabı" değerine eşit mi
+*"csElektronikKategorisi" elementinin üzerine gel
+*"csElektronikKategorisi" elementinin "pathname" niteliği "/cok-satanlar/elektronik" değerine eşit mi
+*"csElektronikKategorisi" elementinin "title" niteliği "Elektronik" değerine eşit mi
+*"csEvKategorisi" elementinin üzerine gel
+*"csEvKategorisi" elementinin "pathname" niteliği "/cok-satanlar/ev-yasam" değerine eşit mi
+*"csEvKategorisi" elementinin "title" niteliği "Ev & Yaşam" değerine eşit mi
+*"csAnneKategorisi" elementinin üzerine gel
+*"csAnneKategorisi" elementinin "pathname" niteliği "/cok-satanlar/anne-bebek" değerine eşit mi
+*"csAnneKategorisi" elementinin "title" niteliği "Anne & Bebek" değerine eşit mi
+*"csKozmetikKategorisi" elementinin üzerine gel
+*"csKozmetikKategorisi" elementinin "pathname" niteliği "/cok-satanlar/kozmetik-kisisel-bakim" değerine eşit mi
+*"csKozmetikKategorisi" elementinin "title" niteliği "Kozmetik & Kişisel Bakım" değerine eşit mi
+*"csMucevherKategorisi" elementinin üzerine gel
+*"csMucevherKategorisi" elementinin "pathname" niteliği "/cok-satanlar/mucevher-saat" değerine eşit mi
+*"csMucevherKategorisi" elementinin "title" niteliği "Mücevher & Saat" değerine eşit mi
+*"csSporKategorisi" elementinin üzerine gel
+*"csSporKategorisi" elementinin "pathname" niteliği "/cok-satanlar/spor-outdoor" değerine eşit mi
+*"csSporKategorisi" elementinin "title" niteliği "Spor & Outdoor" değerine eşit mi
+*"csKitapKategorisi" elementinin üzerine gel
+*"csKitapKategorisi" elementinin "pathname" niteliği "/cok-satanlar/kitap-muzik-film-oyun" değerine eşit mi
+*"csKitapKategorisi" elementinin "title" niteliği "Kitap, Müzik, Film, Oyun" değerine eşit mi
+*"csTatilKategorisi" elementinin üzerine gel
+*"csTatilKategorisi" elementinin "pathname" niteliği "/cok-satanlar/tatil-eglence" değerine eşit mi
+*"csTatilKategorisi" elementinin "title" niteliği "Tatil & Eğlence" değerine eşit mi
+*"csOtomotivKategorisi" elementinin üzerine gel
+*"csOtomotivKategorisi" elementinin "pathname" niteliği "/cok-satanlar/otomotiv-motosiklet" değerine eşit mi
+*"csOtomotivKategorisi" elementinin "title" niteliği "Otomotiv & Motosiklet" değerine eşit mi

@@ -1,0 +1,303 @@
+[
+  {
+    "key": "btnGirisYap",
+    "value": "div>a.btnSignIn",
+    "type": "css"
+  },
+  {
+    "key": "tbEmailOfLogin",
+    "value": "input[name='email']",
+    "type": "css"
+  },
+  {
+    "key": "tbPasswordOfLogin",
+    "value": "input[name='password']",
+    "type": "css"
+  },
+  {
+    "key": "tbSearch",
+    "value": "searchData",
+    "type": "id"
+  },
+  {
+    "key": "btnSearch",
+    "value": "div>a[class='searchBtn']",
+    "type": "css"
+  },
+  {
+  "key": "btnUrununeGel",
+  "value": "ul>li:nth-child(2)>div[data-ctgid='15']",
+  "type": "css"
+  },
+  {
+    "key": "btnUrununuSec",
+    "value": "div.pro>a[class='plink']",
+    "type": "css"
+  },
+  {
+    "key": "btnOturumAcOfLogin",
+    "value": "loginButton",
+    "type": "id"
+  },
+  {
+    "key": "btnRememberMeOfLogin",
+    "value": "rememberMe",
+    "type": "id"
+  },
+  {
+    "key": "btnSepeteEkle",
+    "value": "div>a.btn.btnGrey.btnAddBasket",
+    "type": "css"
+  },
+  {
+    "key": "btnAnaSayfa",
+    "value": "div>a[href='https://www.n11.com']",
+    "type": "css"
+  },
+  {
+    "key": "btnHesabım",
+    "value": "div>a[href='https://www.n11.com/hesabim']",
+    "type": "css"
+  },
+  {
+    "key": "btnCikis",
+    "value": "div>a[href='href=https://www.n11.com/cikis-yap']",
+    "type": "css"
+  },
+  {
+    "key": "btnSepetim",
+    "value": "div>a[href='https://www.n11.com/sepetim']",
+    "type": "css"
+  },
+  {
+    "key": "SepetimBos",
+    "value": "div.cartEmptyText",
+    "type": "css"
+  },
+  {
+    "key": "btnSepetimSil",
+    "value": "div>span.removeProd.svgIcon.svgIcon_trash",
+    "type": "css"
+  },
+  {
+    "key": "btnSozlesmeKabul",
+    "value": "div>label[for='acceptAgreement']",
+    "type": "css"
+  },
+  {
+    "key": "KartNoBir",
+    "value": "div.formfield.cardNumberField>input:nth-child(3)",
+    "type": "css"
+  },
+  {
+    "key": "KartNoIki",
+    "value": "div.formfield.cardNumberField>input:nth-child(4)",
+    "type": "css"
+  },
+  {
+    "key": "KartNoUc",
+    "value": "div.formfield.cardNumberField>input:nth-child(5)",
+    "type": "css"
+  },
+  {
+    "key": "KartNoDort",
+    "value": "div.formfield.cardNumberField>input:nth-child(6)",
+    "type": "css"
+  },
+  {
+    "key": "KartKullanıcıAd",
+    "value": "cardOwnerName",
+    "type": "id"
+  },
+  {
+    "key": "GüvenlikKodu",
+    "value": "securityCode",
+    "type": "id"
+  },
+  {
+    "key": "btnSatinAl",
+    "value": "js-goToPaymentBtn",
+    "type": "id"
+  },
+  {
+    "key": "btnTümKategoriler",
+    "value": "allCatBtn",
+    "type": "id"
+  },
+  {
+    "key": "giyimKategorisi",
+    "value": "div>nav>ul>li:nth-child(1)>a[href='https://www.n11.com/giyim-ayakkabi']",
+    "type": "css"
+  },
+  {
+    "key": "txtGiyimKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/giyim-ayakkabi']",
+    "type": "css"
+  },
+  {
+    "key": "elektronikKategorisi",
+    "value": "div>nav>ul>li:nth-child(2)>a[href='https://www.n11.com/elektronik']",
+    "type": "css"
+  },
+  {
+    "key": "txtElektronikKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/elektronik']",
+    "type": "css"
+  },
+  {
+    "key": "evKategorisi",
+    "value": "div>nav>ul>li:nth-child(3)>a[href='https://www.n11.com/ev-yasam']",
+    "type": "css"
+  },
+  {
+    "key": "txtEvKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/ev-yasam']",
+    "type": "css"
+  },
+  {
+    "key": "anneKategorisi",
+    "value": "div>nav>ul>li:nth-child(4)>a[href='https://www.n11.com/anne-bebek']",
+    "type": "css"
+  },
+  {
+    "key": "txtAnneKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/anne-bebek']",
+    "type": "css"
+  },
+  {
+    "key": "kozmetikKategorisi",
+    "value": "div>nav>ul>li:nth-child(5)>a[href='https://www.n11.com/kozmetik-kisisel-bakim']",
+    "type": "css"
+  },
+  {
+    "key": "txtKozmetikKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/kozmetik-kisisel-bakim']",
+    "type": "css"
+  },
+  {
+    "key": "mucevheratKategorisi",
+    "value": "div>nav>ul>li:nth-child(6)>a[href='https://www.n11.com/kozmetik-kisisel-bakim']",
+    "type": "css"
+  },
+  {
+    "key": "txtMucevheratKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/kozmetik-kisisel-bakim']",
+    "type": "css"
+  },
+  {
+    "key": "sporKategorisi",
+    "value": "div>nav>ul>li:nth-child(7)>a[href='https://www.n11.com/spor-outdoor']",
+    "type": "css"
+  },
+  {
+    "key": "txtSporKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/spor-outdoor']",
+    "type": "css"
+  },
+  {
+    "key": "kitapKategorisi",
+    "value": "div>nav>ul>li:nth-child(8)>a[href='https://www.n11.com/kitap-muzik-film-oyun']",
+    "type": "css"
+  },
+  {
+    "key": "txtKitapKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/kitap-muzik-film-oyun']",
+    "type": "css"
+  },
+  {
+    "key": "biletKategorisi",
+    "value": "div>nav>ul>li:nth-child(9)>a[href='https://www.n11.com/ucak-bileti']",
+    "type": "css"
+  },
+  {
+    "key": "txtBiletKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/ucak-bileti']",
+    "type": "css"
+  },
+  {
+    "key": "otomotivKategorisi",
+    "value": "div>nav>ul>li:nth-child(10)>a[href='https://www.n11.com/otomotiv-motosiklet']",
+    "type": "css"
+  },
+  {
+    "key": "txtOtomotivKategori",
+    "value": "ul>li:nth-child(2)>a[href='https://www.n11.com/otomotiv-motosiklet']",
+    "type": "css"
+  },
+  {
+    "key": "popupClose",
+    "value": "body>div.seg-popup.seg-middle-center.segFadeInUp.fancybox-segmentify>span",
+    "type": "css"
+  },
+  {
+    "key": "btnSuperFirsat",
+    "value": "div>div.hBotMenu>nav>ul>li:nth-child(1)>a[href='https://www.n11.com/super-firsatlar']",
+    "type": "css"
+  },
+  {
+    "key": "csTümKategorisi",
+    "value": "div>ul>li.active>a[href='https://www.n11.com/cok-satanlar']",
+    "type": "css"
+  },
+  {
+    "key": "csGiyimKategorisi",
+    "value": "div>ul>li:nth-child(2)>a[href='https://www.n11.com/cok-satanlar/giyim-ayakkabi']",
+    "type": "css"
+  },
+  {
+    "key": "csElektronikKategorisi",
+    "value": "div>ul>li:nth-child(3)>a[href='https://www.n11.com/cok-satanlar/elektronik']",
+    "type": "css"
+  },
+  {
+    "key": "csEvKategorisi",
+    "value": "div>ul>li:nth-child(4)>a[href='https://www.n11.com/cok-satanlar/ev-yasam']",
+    "type": "css"
+  },
+  {
+    "key": "csAnneKategorisi",
+    "value": "div>ul>li:nth-child(5)>a[href='https://www.n11.com/cok-satanlar/anne-bebek']",
+    "type": "css"
+  },
+  {
+    "key": "csKozmetikKategorisi",
+    "value": "div>ul>li:nth-child(6)>a[href='https://www.n11.com/cok-satanlar/kozmetik-kisisel-bakim']",
+    "type": "css"
+  },
+  {
+    "key": "csMucevherKategorisi",
+    "value": "div>ul>li:nth-child(7)>a[href='https://www.n11.com/cok-satanlar/mucevher-saat']",
+    "type": "css"
+  },
+  {
+    "key": "csSporKategorisi",
+    "value": "div>ul>li:nth-child(8)>a[href='https://www.n11.com/cok-satanlar/spor-outdoor']",
+    "type": "css"
+  },
+  {
+    "key": "csKitapKategorisi",
+    "value": "div>ul>li:nth-child(9)>a[href='https://www.n11.com/cok-satanlar/kitap-muzik-film-oyun']",
+    "type": "css"
+  },
+  {
+    "key": "csTatilKategorisi",
+    "value": "div>ul>li:nth-child(10)>a[href='https://www.n11.com/cok-satanlar/tatil-eglence']",
+    "type": "css"
+  },
+  {
+    "key": "csOtomotivKategorisi",
+    "value": "div>ul>li:nth-child(11)>a[href='https://www.n11.com/cok-satanlar/otomotiv-motosiklet']",
+    "type": "css"
+  },
+  {
+    "key": "tbSliderNext",
+    "value": "div>div.topMainSlide.bannerSlider.slider>a.slidesjs-next.slidesjs-navigation",
+    "type": "css"
+  },
+  {
+    "key": "tbSliderPrevious",
+    "value": "div>div.topMainSlide.bannerSlider.slider>a.slidesjs-previous.slidesjs-navigation",
+    "type": "css"
+  }
+]
+
